@@ -1,1 +1,2 @@
 this is to understand how git diff works
+chnages to demo2 file
