@@ -2,3 +2,5 @@ this is to understand how git diff works
 chnages to demo2 file
 
 updated by colleague
+
+Example of git Fetch
