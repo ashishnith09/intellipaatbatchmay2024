@@ -4,3 +4,4 @@ chnages to demo2 file
 updated by colleague
 
 Example of git Fetch
+updated line to check git polling options
